@@ -1,7 +1,4 @@
 # Read input data
-from turtle import st
-
-
 with open("day_2/input.txt", "r") as f:
     lines = f.read().strip().split("\n")
 
